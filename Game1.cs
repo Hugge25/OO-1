@@ -9,7 +9,6 @@ public class Game1 : Game
 {
     private GraphicsDeviceManager _graphics;
     private SpriteBatch _spriteBatch;
-
     Texture2D pixel;
     Player player;
     List<Enemy> enemies = new List<Enemy>();
